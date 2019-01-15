@@ -1,5 +1,5 @@
 /*
- * The MIT License
+ * The MIT License. blah blah
  *
  * Copyright 2016 CloudBees, Inc.
  *
